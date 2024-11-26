@@ -12,6 +12,7 @@ public class Claseuno {
     private String nombre;
     private String apellido;
     private String curso;
+    private String paralelo;
 
     public Claseuno(String nombre, String apellido, String curso) {
         this.nombre = nombre;
